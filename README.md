@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=790b7611t9vc6dve3pw0vcu8oftnx8vfr1sd5juz2orz0cqz&ep=v1_gifs_search&rid=200.webp&ct=g">
 
-- 🌱 I’m currently learning **MERN, Database, Firebase**
+- 🌱 I’m currently learning **MERN, Database**
 
 - 💬 Ask me about **Coding, Linux**
 
