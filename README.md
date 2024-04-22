@@ -41,5 +41,6 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Pranav_Surve?theme=nord)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav0786&show_icons=true&locale=en&theme=nord" alt="pranav0786" /></p>
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav0786&show_icons=true&locale=en&theme=nord" alt="pranav0786" /></p>  -->
 
