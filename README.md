@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pranav Surve</h1>
-<h3 align="center">Transforming Dreams into Reality with Code</h3>
+<h3 align="center">Transforming Dreams into Reality</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/200.webp?cid=790b7611t9vc6dve3pw0vcu8oftnx8vfr1sd5juz2orz0cqz&ep=v1_gifs_search&rid=200.webp&ct=g">
 
